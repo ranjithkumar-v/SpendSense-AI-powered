@@ -40,14 +40,4 @@ npm run build
 - **Vite** — fast dev server + build tool
 - **Anthropic Claude API** — expense categorization + spend insights
 
----
 
-## 📋 Resume Highlights
-
-- Custom `useExpenses` hook separating business logic from UI
-- Custom `useAI` hook abstracting all API calls with graceful fallbacks
-- `useCountUp` hook with ease-out cubic interpolation via `requestAnimationFrame`
-- Component composition: dumb UI atoms (`StatCard`, `AIBadge`) + smart tab containers
-- Recharts `ResponsiveContainer` with custom tooltip components
-- Tailwind arbitrary values for precise dark-mode glass UI
-- Anthropic API integration with JSON parsing + error fallbacks
