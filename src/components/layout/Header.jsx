@@ -9,7 +9,9 @@ export function Header({ onAddExpense, addOpen }) {
           <h1 className="text-[17px] font-bold text-white tracking-tight leading-none">
             SpendSense
           </h1>
-          <p className="text-[10px] text-white/30 mt-0.5">AI Expense Tracker</p>
+          <p className="text-[10px] text-white/30 mt-0.5">
+            AI Powered Expense Tracker
+          </p>
         </div>
       </div>
 
